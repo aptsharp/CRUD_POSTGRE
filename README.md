@@ -130,8 +130,9 @@ PM> update-database
 Coming Soon
 
 
-
 ### About me
 For any question and technical help with the repository, feel free to contact me via: 
 
-[![N|Solid| width=5 ](https://image.ibb.co/dzZczz/Webp_net_resizeimage.png)](https://www.linkedin.com/in/hidayatarg/)Linkedin Profile
+[![N|Solid| width=5 ](https://image.ibb.co/dzZczz/Webp_net_resizeimage.png)](https://www.linkedin.com/in/afonso-simao/)Linkedin Profile.
+
+
